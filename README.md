@@ -141,7 +141,7 @@ Contribute guideline. See the [CONTRIBUTE](CONTRIBUTE) guide.
 
 ### Support and Issue
 
-For support or any inquiries, feel free to reach out to us at [github-issue](https://github.com/Kiwari-Labs/bilateral-agreement-contract-template/issues) or kiwarilabs@protonmail.com
+For support or any inquiries, feel free to reach out to us at [github-issue](https://github.com/kiwari-labs/erc6123-otc-contract-template/issues) or kiwarilabs@protonmail.com
 
 ### License
 
