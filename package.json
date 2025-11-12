@@ -2,7 +2,7 @@
   "name": "erc6123-otc-contract-template",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "https://github.com/Kiwari-Labs/ERC6123-otc-contract-template.git",
+  "repository": "https://github.com/kiwari-labs/ERC6123-otc-contract-template.git",
   "author": {
     "name": "kiwari-labs",
     "email": "kiwarilabs@protonmail.com",
